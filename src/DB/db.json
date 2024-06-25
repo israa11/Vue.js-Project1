@@ -1,0 +1,18 @@
+{
+  "recipes": [
+    {
+      "title": "Falafel",
+      "decription": "A delicious falafel made with love",
+      "ingredients": "vegetable oil ,1small onion , 1garlic clove , 400g can chickpea, tsp ground cumin, 1 tsp dried mix herbs",
+      "method": "soaking the chickpeas,Once the chickpeas soak, pulse them together with the other ingredients,Add the chickpeas to the food processor with the ingredients,Next form the falafel balls.Finally, bake",
+      "id": 1
+    },
+    {
+      "title": "Döner",
+      "decription": "A delicious Döner made with love",
+      "ingredients": "tablespoon olive oil,onion, chopped ,tablespoon curry powder ,600g chicken ",
+      "method": "soaking the chickpeas,Once the chickpeas soak, pulse them together with the other ingredients,Add the chickpeas to the food processor with the ingredients,Next form the falafel balls.Finally, bake",
+      "id": 2
+    }
+  ]
+}
